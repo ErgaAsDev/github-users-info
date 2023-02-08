@@ -1,8 +1,9 @@
-## Starter Project
+## Github User Project
 
-- css provided (global styles, styled components)
-- folders/files already setup
-- all imports included (warnings)
-- index.js for easier imports
+Stacks:
+- React (create react app)
+- Styling (global styles, styled components)
+- FusionChart for charts
+- Auth0 for user authentification
 
 
